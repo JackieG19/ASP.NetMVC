@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly", "Vidly\Vidly.csproj", "{3D2C5476-E431-4CF4-9FDF-87B2CDCB672C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly.Tests", "Vidly.Tests\Vidly.Tests.csproj", "{642CA926-35AB-4AEB-B531-99DC6DF96589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2C5476-E431-4CF4-9FDF-87B2CDCB672C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2C5476-E431-4CF4-9FDF-87B2CDCB672C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2C5476-E431-4CF4-9FDF-87B2CDCB672C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2C5476-E431-4CF4-9FDF-87B2CDCB672C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642CA926-35AB-4AEB-B531-99DC6DF96589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642CA926-35AB-4AEB-B531-99DC6DF96589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642CA926-35AB-4AEB-B531-99DC6DF96589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642CA926-35AB-4AEB-B531-99DC6DF96589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
